@@ -9,17 +9,7 @@ You can view my certificate of completion on [Credly](https://www.credly.com/use
 Throughout the Google Cybersecurity Professional Certificate Program, I gained foundational knowledge and hands-on experience in the following areas:
 
 
-- **Risk Management**
-- **Threat Analysis**
-- **Network Security**
-- **Incident Response**
-- **Linux**
-- **Python**
-- **SQL**
-- **SIEM Tools (Splunk, Chronicle)**
-- **Network Protocol Analyzers (Wireshark, Tcpdump)**
-- **IDS/IPS Tools**
-- **Firewalls**
+`Risk Management` `Threat Analysis` `Network Security` `Incident Response` `Linux` `Python` `SQL` `SIEM Tools:` `Splunk` `Chronicle` `Network Protocol Analyzers:` `Wireshark` `Tcpdump` `IDS/IPS Tools:` `Suricata` `Firewalls`
 
 ## Projects
 
@@ -27,14 +17,14 @@ Here are the projects I completed, along with the skills and knowledge gained:
 
 | **Projects**                       | **Skills/Knowledge Gained**                                                 |
 |------------------------------------|------------------------------------------------------------------------------|
-| Conduct a Security Audit           | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad |
-| Network Security                   | TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks |
-| Linux & SQL                        | Command-line Interface, SQL, Linux, Bash                                     |
-| Assets, Threats, & Vulnerabilities | Authentication,  Vulnerability Assessment, Cryptography, Asset Classification, Threat Modelling Analysis |
-| Detection & Response               | Incident Lifecycle, Incident Journal                                         |
-| Tcpdump & Wireshark                | Packet Analyzer                                                              |
-| IDS & SIEM                         | Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk |
-| Automation with Python             | Computer Programming, Python Programming, Coding, PEP 8 Style Guide           |
+| Conduct a Security Audit           | `INFOSEC` `NIST Risk Management Framework` `Security Audits` `NIST Cybersecurity Framework` `Incident Response Playbooks` `CISSP` `CIA triad` |
+| Network Security                   | `TCP/IP model` `Network Architecture` `Network Communication` `Security Hardening` `Network Security` `Cloud Networks` |
+| Linux & SQL                        | `Command-line Interface` `SQL` `Linux` `Bash`                                     |
+| Assets, Threats, & Vulnerabilities | `Authentication`  `Vulnerability Assessment` `Cryptography` `Asset Classification` `Threat Modelling Analysis` |
+| Detection & Response               | `Incident Lifecycle` `Incident Journal`                                         |
+| Tcpdump & Wireshark                | `Packet Analyzer`                                                              |
+| IDS & SIEM                         | `Intrusion Detection System (IDS)`: `Suricata` `Security Information and Event Management (SIEM):` `Chronicle` `Splunk` |
+| Automation with Python             | `Computer Programming` `Python Programming` `Coding` `PEP 8 Style Guide`           |
 
 ## Tools Utilized
 
