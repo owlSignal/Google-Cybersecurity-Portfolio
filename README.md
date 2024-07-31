@@ -30,16 +30,7 @@ Here are the projects I completed, along with the skills and knowledge gained:
 
 During my coursework and projects, I used several tools to enhance my cybersecurity skills:
 
-- Google Workspace (Drive, Docs, Sheets, Slides)
-- Markdown Language
-- Tcpdump
-- Wireshark
-- Linux OS
-- SQL
-- Chronicle
-- Splunk
-- Suricata
-- Python
+`Google Workspace (Drive, Docs, Sheets, Slides)` `Markdown Language` `Tcpdump` `Wireshark` `Linux OS` `SQL` `Chronicle` `Splunk` `Suricata` `Python`
 
 ## Course Directory
 
